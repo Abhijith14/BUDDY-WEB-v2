@@ -13,6 +13,11 @@
   <a href="https://github.com/Abhijith14/BUDDY-WEB-v1" target="_blank">v1</a>
 </p>
 
+<p align="center">
+  New iterations:
+  <a href="https://github.com/Abhijith14/BUDDY-WEB-v3" target="_blank">v3</a>
+</p>
+
 <!--
 <p align="center">
   <a href="https://app.netlify.com/sites/Abhijith14/deploys" target="_blank">
