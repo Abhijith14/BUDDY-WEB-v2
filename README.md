@@ -21,7 +21,7 @@
 </p>
 -->
 
-![demo](https://raw.githubusercontent.com/Abhijith14/Portfolio-v1/master/readme_assets/home.png)
+![demo](https://raw.githubusercontent.com/Abhijith14/BUDDY-WEB-v2/master/readme_assets/home.png)
 
 ## 🚨 Forking this repo (please read!)
 
@@ -32,4 +32,4 @@ I value keeping my site open source, but as you all know, _**plagiarism is bad**
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14.github.io/Portfolio-v1](https://abhijith14.github.io/BUDDY-WEB-v2/). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [Abhijith14.github.io/BUDDY-WEB-v2](https://abhijith14.github.io/BUDDY-WEB-v2/). Thanks!
